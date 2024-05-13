@@ -1,0 +1,154 @@
+[
+   {
+    "id":89,
+    "name":"Spring roll",
+    "amt":299,
+    "shop":"pizza hut",
+    "ftype":"pizza",
+    "pic":"https://th.bing.com/th/id/OIP.W5PEjsDum5i7ddDcB5Ri_QHaEe?w=239&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    
+    "id":124,
+    "name":"paper roast dosa",
+    "amt":65,
+    "shop":"maddy",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.iZKap02vBqekl0cRM3gY1AHaEO?w=316&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+
+},
+{
+    "id":26,
+    "name":"idly",
+    "amt":30,
+    "shop":"Food With fun",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.9_ukG4vs8SYxG2tTnYJ_RgHaD2?w=319&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"yes"
+
+},
+{
+    "id":889,
+    "name":"Appam",
+    "amt":60,
+    "shop":"Mr.Zomato",
+    "ftype":"Veg",
+    "pic":"https://th.bing.com/th/id/OIP.T01RJmIj5aqkKaHsS78nIAHaFD?w=242&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":45,
+    "name":"Idiyappam",
+    "amt":40,
+    "shop":"The Best",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.iNEo_30c4bm6RbpcusKz8gD6D6?w=214&h=214&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":39,
+    "name":"chappathi",
+    "amt":45,
+    "shop":"Food Spot",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.bk8gSulv0RijvUAHotMuuwHaE3?w=251&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":83,
+    "name":"Parota",
+    "amt":29,
+    "shop":"Bismi",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.KFN_miOsUKqWmNiQtVUR6AHaEK?w=270&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":34,
+    "name":"Pongal",
+    "amt":"29",
+    "shop":"foodie",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th?q=Ven+Pongal+Side+Dish&dc=3&w=100&h=100&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+    "latest":"No"
+
+},
+     {
+    "id":56,
+    "name":"Pasta",
+    "amt":49,
+    "shop":"Bismi",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.6DMM7XNXmZcEfEKNzod77gHaJQ?w=182&h=227&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":35,
+    "name":"uppuma",
+    "amt":29,
+    "shop":"sri hotel",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th?q=Wheat+Uppuma&dc=3&w=100&h=100&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+    "latest":"No"
+
+},
+{
+    "id":55,
+    "name":"poori",
+    "amt":19,
+    "shop":"Bismi",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th?q=Poori+PNG&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+    "latest":"No"
+
+},
+{
+    "id":56,
+    "name":"vadai",
+    "amt":10,
+    "shop":"Vadai stall",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.97qkF84tmNyQX_K45lG2VAHaHq?w=195&h=202&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":59,
+    "name":"Samosa",
+    "amt":15,
+    "shop":"Hotel Maddy",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.DIyWgZkNd860uLHOCo_eOQHaE8?w=259&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":36,
+    "name":"puttu",
+    "amt":49,
+    "shop":"Timepass Foodie",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.adX-4derV8xOQUM7Vq6VswHaE7?w=221&h=180&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+},
+{
+    "id":56,
+    "name":"uttappam",
+    "amt":70,
+    "shop":"Bismilla",
+    "ftype":"veg",
+    "pic":"https://th.bing.com/th/id/OIP.lr3jMnZf3v_YqfCsdE1aQAHaEK?w=256&h=185&c=7&r=0&o=5&pid=1.7",
+    "latest":"No"
+
+}
+]
